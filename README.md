@@ -1,6 +1,6 @@
 Hola! 
   Soy Nicolas,estudiante de Informatica y amante de la programacion!
-    Este es uno de ms primeros proyectos para poner a aprueba lo aprendido en clases(spy conciente qeue falta aun pulirlo por muchas partes).
+    Este es uno de mis primeros proyectos para poner a aprueba lo aprendido en clases(spy conciente qeue falta aun pulirlo por muchas partes).
     En el documeto word se explica sobre que va el proyecto y a que esta orientado.
     Requisitos:
       - Tener instalado el porgrama XAMPP, asi utilizamos su servidor local y base de datos.
