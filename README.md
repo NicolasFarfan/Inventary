@@ -6,6 +6,7 @@ Hola!
       - Tener instalado el porgrama XAMPP, asi utilizamos su servidor local y base de datos.
       - Descargar los archivos PHP y guardarlos en una carpeta con el nombre "aplic-web"   //IMPORTANTISIMO
     Los pasos para poder correr el programa seria:
+      - Abrir el prograa XAMPP y prender el Servidor Apache y el MySQL
       - Buscar el directorio C:\xampp\htdocs y inserter ahi mismo la carpeta con los archivos PHP.
       - Ingresar a el buscador web de preferencia y poner la sigguiente dirección:   http://localhost/aplic-web/index.php
       Y listo,ya ingreaste a la apliacion, el programa es muy intuitivo y sencillo.
