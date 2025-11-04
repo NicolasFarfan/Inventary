@@ -4,6 +4,7 @@ Hola!
     En el documeto word se explica sobre que va el proyecto y a que esta orientado.
     Requisitos:
       - Tener instalado el porgrama XAMPP, asi utilizamos su servidor local y base de datos.
+      - Descargar los archivos PHP y guardarlos en una carpeta con el nombre "aplic-web"   //IMPORTANTISIMO
     Los pasos para poder correr el programa seria:
       - Buscar el directorio C:\xampp\htdocs y inserter ahi mismo la carpeta con los archivos PHP.
       - Ingresar a el buscador web de preferencia y poner la sigguiente dirección:   http://localhost/aplic-web/index.php
